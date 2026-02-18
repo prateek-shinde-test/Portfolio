@@ -557,16 +557,8 @@ MIT License - You are free to:
 <div align="center">
 
 ### **Prateek Shinde**
-*QA Engineer | Bug Hunter | Quality Advocate*
 
-[![Email](https://img.shields.io/badge/Email-pratik.shinde2000%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratik.shinde2000@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91--7038897670-green?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917038897670)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-prateekshinde-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prateekshinde)
-[![Location](https://img.shields.io/badge/Location-Navi_Mumbai,_India-orange?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Navi+Mumbai)
-
-**📧 Email:** pratik.shinde2000@gmail.com  
-**📱 Phone:** +91 7038897670  
-**📍 Location:** Navi Mumbai, India  
+ 
 **💼 LinkedIn:** [linkedin.com/in/prateekshinde](https://linkedin.com/in/prateekshinde)
 
 </div>
